@@ -1,0 +1,18 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uz.uzkassa.apay.app",
+    "sha256_cert_fingerprints":
+    ["5F:ED:E5:7D:66:BA:63:4E:24:18:4B:98:FE:C6:C2:F0:59:7A:2E:CC:D8:FB:5D:8D:34:00:FD:86:CB:1F:C0:49"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uz.uzkassa.apay.app",
+    "sha256_cert_fingerprints":
+    ["55:B9:0F:8B:D3:14:3C:E7:F3:BE:3C:1E:7D:4A:E3:61:2E:80:CF:00:67:1F:93:4C:49:B6:FA:32:3C:F2:2B:E0"]
+  }
+}]
